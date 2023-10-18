@@ -1,4 +1,4 @@
 Los cambios se han realizado en Main Activity donde se ha añadido el init y el listener del botón "del" y la función que se lanza 
 al pulsar dicho botón. 
-En el xml se ha añadido el botón y se han modificado varios parámetros del botón " = " y del botón nuevo
-para separarlos del resto de botones.
+En el xml se ha añadido el botón y se han modificado varios parámetros del botón " = " y del botón nuevo para separarlos del resto 
+de botones.
